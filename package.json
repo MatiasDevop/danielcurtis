@@ -1,0 +1,17 @@
+{
+  "name": "danielcurtis",
+  "version": "1.0.0",
+  "description": "Personal GitHub README repo",
+  "main": "updateReadme.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcurtis/danielcurtis.git"
+  },
+  "author": "Daniel Curtis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielcurtis/danielcurtis/issues"
+  },
+  "homepage": "https://github.com/danielcurtis/danielcurtis#readme"
+}
