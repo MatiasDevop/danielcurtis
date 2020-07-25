@@ -3,7 +3,7 @@
 I enjoy building full-stack applications and playing with machine learning. My go to languages are JavaScript, Python, and C.
 
 #### What I'm working on:
-- 📗 [Another C Library](https://anotherlibrary.com)
+- 📗 [Another C Library](https://anotherclibrary.com)
 - ☑️ [Taskaholic](https://taskaholic.com)
 - 📊 [Stonk Advisor](https://stonkadvisor.com)
 
