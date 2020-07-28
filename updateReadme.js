@@ -12,7 +12,7 @@ function readWriteAsync() {
     res.on('end', () => {
       body = JSON.parse(body);
       body = body.slice(0, 3);
-      const articles = `\n - [${body[0].title}](${body[0].url})\n - [${body[1].title}](${body[1].url})\n \n`;
+      const articles = `\n - [${body[0].title}](${body[0].url})\n - [${body[1].title}](${body[1].url})\n - [${body[2].title}](${body[2].url})\n \n`;
 
       // Update README
       fs.readFile('README.md', 'utf-8', (err, data) => {
