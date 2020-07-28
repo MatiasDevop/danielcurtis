@@ -9,7 +9,7 @@ I enjoy building full-stack applications and playing with machine learning. My g
 
 #### What I'm writing:
 
+ - [CI/CD Pipeline with Netlify and GitHub Actions](https://dev.to/curtiscodes/ci-cd-pipeline-with-netlify-and-github-actions-bcm)
  - [Learn React by Recreating this Dev.to Article](https://dev.to/curtiscodes/learn-react-by-recreating-this-dev-to-article-1pfm)
- - [Learn to UseContext() with Hooks in 3 Minutes](https://dev.to/curtiscodes/learn-to-usecontext-with-hooks-in-3-minutes-4c4g)
-
+ 
 ![Build README](https://github.com/danielcurtis/danielcurtis/workflows/Build%20README/badge.svg)
