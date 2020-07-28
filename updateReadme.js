@@ -19,7 +19,7 @@ function readWriteAsync() {
         if (err) throw err;
 
         const updatedMd = data.replace(
-          /(?<=I'm writing:\n)[\s\S]*(?=\[dont)/gim,
+          /(?<=I'm writing:\n)[\s\S]*(?=\!\[Build)/gim,
           articles
         );
 
