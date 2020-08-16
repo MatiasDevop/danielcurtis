@@ -14,3 +14,5 @@ I enjoy building full-stack applications and playing with machine learning. My g
  - [CI/CD Pipeline with Netlify and GitHub Actions](https://dev.to/curtiscodes/ci-cd-pipeline-with-netlify-and-github-actions-bcm)
  
 ![Build README](https://github.com/danielcurtis/danielcurtis/workflows/Build%20README/badge.svg)
+
+[How I built this](https://dev.to/curtiscodes/self-updating-github-profile-readme-with-javascript-lhm)
