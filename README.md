@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I enjoy building full-stack applications and playing with machine learning. My go to languages are JavaScript, Python, and C.
-
-#### What I'm working on:
-- 📗 [Another C Library - Open Source C Library](https://anotherclibrary.com)
-- ☑️ [Taskaholic - A personal Jira](https://taskaholic.com)
-- 📊 [Stonk Advisor - ML Stock Market Models](https://stonkadvisor.com)
+I enjoy building full-stack web applications with React and TypeScript.
 
 #### What I'm writing:
 
